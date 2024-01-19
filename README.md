@@ -20,7 +20,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/ARYANPOKHRIYAL/Excel-Sales-Analytics/blob/Aryan/P%26L%20by%20Year.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/ARYANPOKHRIYAL/Excel-Sales-Analytics/blob/Aryan/P%26L%20by%20Markets.pdf)_\
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/ARYANPOKHRIYAL/Excel-Sales-Analytics/blob/Aryan/P%26L%20by%20Markets.pdf)_
 
    **3.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/ARYANPOKHRIYAL/Excel-Sales-Analytics/blob/Aryan/P%26L%20by%20Fiscal%20Months.pdf)_
 
